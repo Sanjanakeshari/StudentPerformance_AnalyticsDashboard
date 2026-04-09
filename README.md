@@ -4,7 +4,6 @@
 
 An interactive dashboard that helps educational institutions **identify at-risk students** by analyzing marks, attendance, and login behavior.
 
-> 🚀 Developed as part of the **RISE Internship Program (Tamizhan Skills)**
 
 ---
 
